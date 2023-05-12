@@ -32,7 +32,7 @@
     //computed properties start here
     computed: {
       filterMedia() {
-        //if filter is all - display all, else, display by type
+        //if filter is all - display all, else, display by type else return false
         if (this.activeFilter === "all") {
           return this.media;
         }
@@ -78,28 +78,26 @@ label, select {
     margin-bottom: 5rem;
 }
 .book {
-  border: 2px solid #0f4f1f;
+  border: 1px solid #0f4f1f;
   color: #126929;
   background-color: #b0d1b8;
-  transition: 0.2s linear;
 }
 .book:hover {
   background-color: #65826d;
 }
 .streaming {
-  border: 2px solid #880f96;
+  border: 1px solid #880f96;
   color: #942ea3;
   background-color: #d3bad6;
-  transition: 0.15s linear;
 }
 .streaming:hover {
   background-color: #e75ef7;
 }
 .dvd {
-  border: 2px solid #7a7601;
+  border: 1px solid #7a7601;
   color: #928e29;
   background-color: #f2f0b8;
-  transition: 0.2s linear;
+  
 }
 .dvd:hover {
   background-color: #d1cb0a;
