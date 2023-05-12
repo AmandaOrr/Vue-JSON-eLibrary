@@ -1,0 +1,185 @@
+{
+    "media": [
+        {
+            "book": true,
+            "dvd": false,
+            "streaming": false,
+            "type": "book",
+            "title": "A Court Of Thorns And Roses",
+            "firstName": "Sarah J",
+            "lastName": "Maas",
+            "description": "Follow the heated story of Feyre, a human trapped in the world of the high Fae",
+            "expand": false,
+            "image": "src/assets/images/acotarBook.jpg" 
+        },
+        {
+            "book": true,
+            "dvd": false,
+            "streaming": false,
+            "type": "book",
+            "title": "Good Omens",
+            "firstName": "Neil",
+            "lastName": "Gaimen",
+            "description": "the apocolapyse can be funny....sometimes",
+            "expand": false,
+            "image": "src/assets/images/goodomensBooks.jpg" 
+        },
+        {
+            "book": true,
+            "dvd": false,
+            "streaming": false,
+            "type": "book",
+            "title": "Game Of Thrones",
+            "firstName": "George R R",
+            "lastName": "Martin",
+            "description": "The battle for the five kingdoms extends beyond Westeros",
+            "expand": false,
+            "image": "src/assets/images/gotBook.jpg" 
+        },
+        {
+            "book": true,
+            "dvd": false,
+            "streaming": false,
+            "type": "book",
+            "title": "Lord Of the Rings Trilogy",
+            "firstName": "J R R",
+            "lastName": "Tolkien",
+            "description": "a silly hobbit needs to throw a ring into some fire, a wizard saves everyone repeatedly",
+            "expand": false,
+            "image": "src/assets/images/lotrBook.jpg" 
+        },
+        {
+            "book": true,
+            "dvd": false,
+            "streaming": false,
+            "type": "book",
+            "title": "The Night and Its Moon",
+            "firstName": "Piper",
+            "lastName": "CJ",
+            "description": "Two friends torn apart by forces outside their control",
+            "expand": false,
+            "image": "src/assets/images/nightandmoonBook.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": true,
+            "streaming": false,
+            "type": "dvd",
+            "title": "Fantastic Beasts",
+            "firstName": "David",
+            "lastName": "Yates",
+            "description": "The prequel to the wizarding world of harry potter",
+            "expand": false,
+            "image": "src/assets/images/beastsMovie.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": true,
+            "streaming": false,
+            "type": "dvd",
+            "title": "Big Fish",
+            "firstName": "Tim",
+            "lastName": "Burton",
+            "description": "The wonderful story of a man who will tell tall tales",
+            "expand": false,
+            "image": "src/assets/images/bigfishMovie.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": true,
+            "streaming": false,
+            "type": "dvd",
+            "title": "Pans Labrynith",
+            "firstName": "Guillermo Del",
+            "lastName": "Toro",
+            "description": "Set in the early 1940s, this allegory for the spanish civil war meshed with the world of fantasy will awe you",
+            "expand": false,
+            "image": "src/assets/images/pansMovie.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": true,
+            "streaming": false,
+            "type": "dvd",
+            "title": "the Hobbit Triology",
+            "firstName": "Peter",
+            "lastName": "Jackson",
+            "description": "There and back again, a hobbits tale",
+            "expand": false,
+            "image": "src/assets/images/hobbitMovie.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": true,
+            "streaming": false,
+            "type": "dvd",
+            "title": "Stardust",
+            "firstName": "Matthew",
+            "lastName": "Vaughn",
+            "description": "a star falls, a boy falls in love, their adventure ensues",
+            "expand": false,
+            "image": "src/assets/images/stardustMovie.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": false,
+            "streaming": true,
+            "type": "streaming",
+            "title": "Carnival Row",
+            "firstName": "Gideon",
+            "lastName": "Amir",
+            "description": "Fae, smugglers, prohibition, and a grimy british neighborhood, need I say more?",
+            "expand": false,
+            "image": "src/assets/images/carnivalStream.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": false,
+            "streaming": true,
+            "type": "streaming",
+            "title": "House of the Dragon",
+            "firstName": "Greeta",
+            "lastName": "Patel",
+            "description": "Dragons, Targaryens and family fueds, oh my!",
+            "expand": false,
+            "image": "src/assets/images/hodStream.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": false,
+            "streaming": true,
+            "type": "streaming",
+            "title": "Sweet Tooth",
+            "firstName": "Jim",
+            "lastName": "Mickle",
+            "description": "a boy who is unlike most others and his journey to find his mom, while the goverment tries to get rid of his kind.",
+            "expand": false,
+            "image": "src/assets/images/sweettoothStream.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": false,
+            "streaming": true,
+            "type": "streaming",
+            "title": "Wheel of Time",
+            "firstName": "Thamoas",
+            "lastName": "Napper",
+            "description": "At the dawn of time, a deity known as the Creator forged the universe and the Wheel of Time, which spins the Pattern of the Ages using the lives of men and women as its threads",
+            "expand": false,
+            "image": "src/assets/images/wheelStream.jpg" 
+        },
+        {
+            "book": false,
+            "dvd": false,
+            "streaming": true,
+            "type": "streaming",
+            "title": "The Witcher",
+            "firstName": "Tomasz",
+            "lastName": "Baginski",
+            "description": "Henry Cavill broods around taking care of his child by chance, but he is really a big softy just trying to be a good dad.",
+            "expand": false,
+            "image": "src/assets/images/witcherStream.jpg" 
+        }
+
+    ]
+}
